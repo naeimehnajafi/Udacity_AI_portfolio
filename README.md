@@ -26,3 +26,19 @@ For this image classification task, I will be using an image classification appl
 A classifier function in classifier.py will allow me to use CNNs to classify my images. The test_classifier.py file contains an example program that demonstrates how to use the classifier function. For this project, I will be focusing on using my Python skills to complete these tasks using the classifier function.
 
 Certain breeds of dogs look very similar. The more images of two similar-looking dog breeds that the algorithm has learned from, the more likely the algorithm will be able to distinguish between those two breeds. We have found the following breeds to look very similar: Great Pyrenees and Kuvasz, German Shepherd and Malinois, Beagle and Walker Hound, amongst others.
+
+## Principal Objectives
+
+1. Correctly identify which pet images are of dogs (even if the breed is misclassified) and which pet images aren't of dogs.
+2. Correctly classify the breed of dog, for the images that are of dogs.
+3. Determine which CNN model architecture (ResNet, AlexNet, or VGG), "best" achieve objectives 1 and 2.
+4. Consider the time resources required to best achieve objectives 1 and 2, and determine if an alternative solution would have given a "good enough" result, given the amount of time each of the algorithms takes to run.
+
+## TODO
+
+- Edit program check_images.py
+
+The check_images.py is the program file that I will be editing to achieve the four objectives above. This file contains a main() function that outlines how to complete this program through using functions that have not yet been defined. I will be creating these undefined functions in check_images.py to achieve the objectives above.
+
+All of the TODOs are listed in check_images.py
+
