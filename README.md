@@ -57,3 +57,4 @@ All of the TODOs are listed in check_images.py
 
 **Table:** Results of the image classification project using different CNN model architectures.
 
+![Image_Classification](udacity_first_project.gif)
