@@ -42,3 +42,18 @@ The check_images.py is the program file that I will be editing to achieve the fo
 
 All of the TODOs are listed in check_images.py
 
+# Results Table
+
+| # Total Images | 40 |
+| --- | --- |
+| # Dog Images | 30 |
+| # Not-a-Dog Images | 10 |
+
+| CNN Model Architecture: | % Not-a-Dog Correct | % Dogs Correct | % Breeds Correct | % Match Labels |
+| --- | --- | --- | --- | --- |
+| ResNet | 90.0 % | 100.0 % | 90.0 % | 82.5 % |
+| AlexNet | 100.0 % | 100.0 % | 80.0 % | 75.0 % |
+| VGG | 100.0 % | 100.0 % | 93.3 % | 87.5 % |
+
+**Table:** Results of the image classification project using different CNN model architectures.
+
