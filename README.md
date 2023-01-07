@@ -2,7 +2,7 @@
 
 ## Project Goal
 
-The goal of this project is to improve my programming skills using Python. This is the first project towards the Udacity nanodegree program on AI programming with Python. In this project, I will use a created image classifier to identify dog breeds. The focus is on Python and not on the actual classifier. For the second project, I will be designing the image classifier myself.I have provided a brief description of the project and the TODOs in this readme file. For the final results and the real-time result running in gif format, scroll down.
+The goal of this project is to improve my programming skills using Python. This is the first project towards the Udacity nanodegree program on AI programming with Python. In this project, I will use a created image classifier to identify dog breeds. The focus is on Python and not on the actual classifier. For the second project, I will be designing the image classifier myself.I have provided a brief description of the project and the TODOs in this readme file. For the final results and the real-time result running in gif format, scroll down. The total run time is 33 seconds, so be sure to watch until the end.
 
 ## Description
 
@@ -55,6 +55,6 @@ All of the TODOs are listed in check_images.py
 | AlexNet | 100.0 % | 100.0 % | 80.0 % | 75.0 % |
 | VGG | 100.0 % | 100.0 % | 93.3 % | 87.5 % |
 
-**Table:** Results of the image classification project using different CNN model architectures.
+**Table caption:** Results of the image classification project using different CNN model architectures.
 
 ![Image_Classification](udacity_first_project.gif)
