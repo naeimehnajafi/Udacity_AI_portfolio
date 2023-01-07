@@ -2,7 +2,7 @@
 
 ## Project Goal
 
-The goal of this project is to improve my programming skills using Python. This is the first project towards the Udacity nanodegree program on AI programming with Python. In this project, I will use a created image classifier to identify dog breeds. The focus is on Python and not on the actual classifier. For the second project, I will be designing the image classifier myself.I have provided a brief description of the project and the TODOs in this readme file. For the final results and the real-time result running in gif format, scroll down. The total run time is 33 seconds, so be sure to watch until the end.
+The goal of this project is to improve my programming skills using Python. This is the first project towards the Udacity nanodegree program on AI programming with Python (winter cohort). In this project, I will use a created image classifier to identify dog breeds. The focus is on Python and not on the actual classifier. For the second project, I will be designing the image classifier myself.I have provided a brief description of the project and the TODOs in this readme file. For the final results and the real-time result running in gif format, scroll down. The total run time is 33 seconds, so be sure to watch until the end.
 
 ## Description
 
