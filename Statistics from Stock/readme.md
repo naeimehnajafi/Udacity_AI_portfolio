@@ -11,6 +11,9 @@ This mini project demonstrates the use of Pandas and Matplotlib to analyze and v
 
 The results of this project show that the stock prices for Google, Apple, and Amazon have generally increased over time, with some fluctuations. The rolling mean helps to smooth out these fluctuations and provides a better overall trend of the stock prices. The correlation between the stocks is generally positive, indicating that the stock prices tend to move in the same direction.
 
+![Stat_stock_market](stock_market_naeimeh.png)
+
+
 **Disclaimer:** Do not blindly trust my coding to make investment decisions. It is always recommended to do your own analysis and research before making any investment decisions. Working through this project yourself may help you get a better understanding of the stock market.
 
 This project is part of the Udacity AI programming with Python nanodegree.
