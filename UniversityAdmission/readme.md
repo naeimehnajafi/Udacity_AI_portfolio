@@ -1,6 +1,6 @@
 ## Error Term Calculation in Neural Networks
 
-This code is from the Udacity Deep Learning Nanodegree program, specifically from the "Neural Networks" section. It includes a function to calculate the error term for backpropagation in a neural network.
+This code is from the Udacity AI application using Python Nanodegree program, specifically from the "Neural Networks" section. It includes a function to calculate the error term for backpropagation in a neural network.
 
 The `error_term_formula` function takes in the input `x`, target output `y`, and actual output `output` of the neural network as arguments, and calculates the error term using the sigmoid activation function. The derivative of the sigmoid activation function is also included in the calculation.
 
