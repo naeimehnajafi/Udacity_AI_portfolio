@@ -14,4 +14,4 @@ Project code for Udacity's AI Programming with Python Nanodegree program. In thi
 
 ## Certificates
 
-![Udacity certificate Naeimeh](download.pdf)
+![Udacity certificate Naeimeh](udacity_certificate_Naeimeh Najafizadeh.png)
