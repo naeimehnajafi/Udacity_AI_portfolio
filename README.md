@@ -10,7 +10,7 @@ The goal of this project is to improve my programming skills using Python. This 
 
 ### Project 2: [Create your own Image Classifier](https://github.com/naeimehnajafi/Udacity_AI_portfolio/tree/810617298f7cf922aaadd5690bbbd40376189e97/Create_your_own_image_classifier)
 
-Project code for Udacity's AI Programming with Python Nanodegree program. In this project, I first developed code for an image classifier built with PyTorch, then convert it into a command line application.
+Project code for Udacity's AI Programming with Python Nanodegree program. In this project, I first developed code for an image classifier built with PyTorch. The goal was to traine an image classifier to recognize different species of flowers, then convert it into a command line application.
 
 ## Certificates
 
